@@ -1,5 +1,4 @@
-# tarjomeh.github.io
-Lets Practice Python + NLTK together!
+### Lets Practice Python + NLTK together!
 
 I use Jupyter Notebook to record the codes I learn when practicing Python + NLTK. 
 
