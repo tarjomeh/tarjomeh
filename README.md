@@ -1,7 +1,7 @@
 # tarjomeh.github.io
 Lets Practice Python + NLTK together!
 
-I use a Jupyter Notebook to record what I learn when practicing Python + NLTK. 
-Please feel free to dowload and use the notebook. 
+I use Jupyter Notebook to record the codes I learn when practicing Python + NLTK. 
+Please feel free to dowload the notebook file. 
 
 Your comments are highly appreciated. 
